@@ -814,6 +814,10 @@ select {
   display: grid;
 }
 
+.hidden {
+  display: none;
+}
+
 .h-fit {
   height: -moz-fit-content;
   height: fit-content;
@@ -1075,8 +1079,8 @@ select {
   background-repeat: no-repeat;
 }
 
-.p-12 {
-  padding: 3rem;
+.p-2 {
+  padding: 0.5rem;
 }
 
 .p-4 {
@@ -1266,6 +1270,18 @@ select {
 }
 
 @media (min-width: 768px) {
+  .md\:flex {
+    display: flex;
+  }
+
+  .md\:p-12 {
+    padding: 3rem;
+  }
+
+  .md\:p-8 {
+    padding: 2rem;
+  }
+
   .md\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
