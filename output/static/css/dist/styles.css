@@ -814,10 +814,6 @@ select {
   display: grid;
 }
 
-.hidden {
-  display: none;
-}
-
 .h-fit {
   height: -moz-fit-content;
   height: fit-content;
@@ -1289,6 +1285,10 @@ select {
 @media (min-width: 1024px) {
   .lg\:block {
     display: block;
+  }
+
+  .lg\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .lg\:p-16 {
