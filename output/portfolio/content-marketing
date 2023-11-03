@@ -1,0 +1,283 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>
+Content Marketing Portfolio | SEO, Video, Content Writing - Duncan Trevithick
+</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<link rel="icon" href="/static/logo_sm.jpg" type="image/x-icon">
+		
+
+<link rel="stylesheet" href="/static/css/dist/styles.css?v=1699007033">
+
+
+
+
+	</head>
+
+	<body class="bg-gray-50 font-sans leading-normal tracking-normal">
+		<nav class="w-full px-6 lg:px-10 py-4 lg:py-3 lg:block relative z-10 sticky top-0 bg-white border-b">
+		<div class="flex flex-row justify-between items-center max-w-screen-2xl mx-auto">
+			<a class="relative bg-black text-white rounded" href="/"><img src="/static/logo_sm.jpg" class="max-w-[72px] rounded" /></a>
+		<div>
+			<ul class="md:flex justify-center hidden items-center gap-x-8 list-none">
+				<li><a href="/seo/">B2B SaaS SEO</a></li>
+				<li><a href="/services/content-writing/">B2B SaaS Content Writer</a></li>
+				<li><a href="/portfolio/content-marketing">Content Marketing Portfolio</a></li>
+				
+				<!--<li><a href="/about/">About</a></li>-->
+				
+			</ul>
+		</div>
+			<div class="flex items-center gap-4">
+				<!--<a class="text-[15px] text-black py-2 px-2 lg:px-3 hover:bg-gray-200/50 rounded-md transition h-fit font-medium">Contact</a>-->
+				<a class="flex justify-center gap-[10px] text-white bg-indigo-500 border-[#3843D0] border-2 rounded-[10px] py-4 px-6 lg:py-3 lg:px-8 font-medium transition-colors hover:bg-[#060419] hover:text-white" href="mailto:duncan@duncanfelix.co.uk">
+					Contact
+				</a>
+			</div>
+		</div>
+		</nav>
+		<section class="relative bg-[#F7F5FF] bg-cover bg-no-repeat bg-center mx-auto overflow-y-hidden text-center">
+			<div class="flex flex-col gap-y-8 justify-center px-1 lg:p-16 xl:p-18">
+				
+<h1 class="font-display font-bold uppercase text-[2.75rem] md:text-7xl lg:text-[4rem] xl:text-[5.75rem] font-heading max-w-4xl mx-auto text-center">Content Marketing Portfolio</h1>
+<p class="text-2xl"></p>
+
+			</div>
+		</section>
+
+		<div class="overflow-x-hidden container mx-auto p-8">
+			
+
+<section class="relative mx-auto space-y-8">
+	
+	
+	<div>
+	<h2 class="text-2xl mb-6">SEO Optimized Article Writing</h2>
+
+	
+	
+	<div class="grid grid-cols-2 gap-6 mb-12">
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">7 Proven Tips for Making a Kickstarter Pitch Video That Converts</h3>
+		
+			
+			
+			<p><a href="https://www.crowdcrux.com/proven-tips-for-making-a-kickstarter-pitch-video-that-converts/" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">Jasper vs Quillbot vs Scripted</h3>
+		
+			
+			
+			
+			<p class="bg-slate-200 p-2 rounded text-slate-500">Client: <a href="/seo/example/scripted/" class="border-b border-violet-300">Scripted</a></p>
+			
+			
+			<p><a href="https://www.scripted.com/ai/jasper-vs-quillbot" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">Passive Solar Cooling</h3>
+		
+			
+			
+			<p><a href="https://uplevelgreen.com/passive-solar-cooling-in-hot-humid-climates/" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">SaaS Community Examples: How SaaS Companies Are Using Communities to Scale in 2023</h3>
+		
+			
+			
+			<p><a href="https://www.linkedin.com/pulse/saas-community-examples-how-companies-using-scale-2023-trevithick/" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">Scripted Blog Post Generator</h3>
+		
+			
+			
+			
+			<p class="bg-slate-200 p-2 rounded text-slate-500">Client: <a href="/seo/example/scripted/" class="border-b border-violet-300">Scripted</a></p>
+			
+			
+			<p><a href="https://www.scripted.com/ai/blog-post-generator" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	</div>
+	
+	<div>
+	<h2 class="text-2xl mb-6">YouTube Organic</h2>
+
+	
+	
+	<div class="grid grid-cols-2 gap-6 mb-12">
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">Niche Site Examples: 4 Real Life Authority Sites With Income &amp; Traffic Source</h3>
+		
+			
+			<div class="aspect-w-16 aspect-h-9">
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8IPdLfX0lJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			</div>
+			
+			
+			
+			<p class="bg-slate-200 p-2 rounded text-slate-500">Client: <a href="/seo/example/writesoniccom/" class="border-b border-violet-300">WriteSonic</a></p>
+			
+			
+			<p><a href="https://www.youtube.com/watch?v=8IPdLfX0lJk" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">Write 1500+ Word Blog Posts In Minutes With AI</h3>
+		
+			
+			<div class="aspect-w-16 aspect-h-9">
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VA0sX_H7vb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			</div>
+			
+			
+			
+			<p class="bg-slate-200 p-2 rounded text-slate-500">Client: <a href="/seo/example/writesoniccom/" class="border-b border-violet-300">WriteSonic</a></p>
+			
+			
+			<p><a href="https://www.youtube.com/watch?v=VA0sX_H7vb8" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">5 Ways to Earn Money by Writing Online</h3>
+		
+			
+			<div class="aspect-w-16 aspect-h-9">
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/egdM-ijACig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			</div>
+			
+			
+			
+			<p class="bg-slate-200 p-2 rounded text-slate-500">Client: <a href="/seo/example/writesoniccom/" class="border-b border-violet-300">WriteSonic</a></p>
+			
+			
+			<p><a href="https://www.youtube.com/watch?v=egdM-ijACig" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">How to Write a Full Length Blog Post in Minutes using AI (Article Writer 3.0)</h3>
+		
+			
+			<div class="aspect-w-16 aspect-h-9">
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JXLM1jPPl3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			</div>
+			
+			
+			
+			<p class="bg-slate-200 p-2 rounded text-slate-500">Client: <a href="/seo/example/writesoniccom/" class="border-b border-violet-300">WriteSonic</a></p>
+			
+			
+			<p><a href="https://www.youtube.com/watch?v=JXLM1jPPl3Y" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">Solar Panels UK: Are they worth it?</h3>
+		
+			
+			<div class="aspect-w-16 aspect-h-9">
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YaQz1utri-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			</div>
+			
+			
+			<p><a href="https://www.youtube.com/watch?v=YaQz1utri-c" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">CFA UK AGM</h3>
+		
+			
+			<div class="aspect-w-16 aspect-h-9">
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hfVebYonBo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			</div>
+			
+			
+			
+			<p class="bg-slate-200 p-2 rounded text-slate-500">Client: CFA UK</p>
+			
+			
+			<p><a href="https://www.youtube.com/watch?v=hfVebYonBo8" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">Ethical Leadership Programme</h3>
+		
+			
+			<div class="aspect-w-16 aspect-h-9">
+				<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UybmsOEjc-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			</div>
+			
+			
+			
+			<p class="bg-slate-200 p-2 rounded text-slate-500">Client: CFA UK</p>
+			
+			
+			<p><a href="https://www.youtube.com/watch?v=UybmsOEjc-o" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	</div>
+	
+	<div>
+	<h2 class="text-2xl mb-6">Email Nurture</h2>
+
+	
+	
+	<div class="grid grid-cols-2 gap-6 mb-12">
+	
+	
+		<div class="space-y-4 border rounded p-6">
+			<h3 class="text-lg">UK Solar Appointment Booking Sequence</h3>
+		
+			
+			
+			<p><a href="https://photonicgrowth.com/solar-email-marketing-sample/" target="_blank" rel="nofollow" class="border-b border-violet-300">View</a></p>
+		</div>
+	
+	
+	</div>
+	
+	</div>
+	
+</section>
+
+
+
+		</div>
+	<script src="/static/django-browser-reload/reload-listener.js" data-worker-script-path="/static/django-browser-reload/reload-worker.js" data-events-path="/__reload__/events/" defer></script></body>
+</html>
